@@ -6,10 +6,10 @@ var colors = ["red", "yellow", "green", "blue"];
 
 
 
-// 
-// $( document ).ready(function() {
-//     console.log( "ready!" );
-//   })
+
+$( document ).ready(function() {
+    console.log( "ready!" );
+  })
 
 
 
